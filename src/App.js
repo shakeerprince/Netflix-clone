@@ -1,10 +1,8 @@
-import "./App.css"
+import Body from "./components/Body";
 
 function App() {
   return (
-    <div className="text-3xl justify-center font-bold text-green-300">
-      Hello Everyone, Lets build Netflix
-    </div>
+    <Body />
   );
 }
 
