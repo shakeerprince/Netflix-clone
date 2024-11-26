@@ -15,7 +15,10 @@
 - Created Redux Store with userSlice
 - Implemented Signout
 - updated profile
-
+- BugFix: Sign up user displayName and profile picture update
+- Unsubscribed to the onAuthStateChanged callback
+- Add hardcoded values to the constants file
+- Solved the user img error
 
 
 
